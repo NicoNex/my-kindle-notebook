@@ -11,7 +11,7 @@ class Note:
 		self.note = note
 
 	def __str__(self):
-		ret = f"#### {self.page}\n{self.highlight}\n"
+		ret = f"### {self.page}\n{self.highlight}\n"
 		if self.note != "":
 			ret += "> " + self.note.replace("\n", "  \n> ") + "\n"
 
