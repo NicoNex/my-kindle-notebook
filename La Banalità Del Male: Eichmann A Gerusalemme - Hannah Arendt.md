@@ -1,4 +1,4 @@
-# La Banalità Del Male: Eichmann A Gerusalemme - Hannah Arendt, Piero Bernardini
+# La Banalità Del Male: Eichmann A Gerusalemme - Hannah Arendt
 ### Pagina 19
 “Il trionfo delle SS esige che la vittima torturata si lasci condurre dove si vuole senza protestare, che rinunzi a lottare e si abbandoni fino a perdere completamente la coscienza della propria personalità. E c’è una ragione. Non è senza motivo, non è per puro sadismo che gli uomini delle SS desiderano il suo annientamento spirituale: essi sanno che distruggere la vittima prima che salga al patibolo […] è il sistema di gran lunga migliore per tenere un popolo intero in schiavitù, assoggettato. Nulla è più terribile di questi esseri umani che vanno come automi incontro alla morte”
 

@@ -13,7 +13,8 @@ class Note:
 	def __str__(self):
 		ret = f"### {self.page}\n{self.highlight}\n"
 		if self.note != "":
-			ret += "> " + self.note.replace("\n", "  \n> ") + "\n"
+			note = self.note.replace('\n', '  \n> ')
+			ret += f"> {note}\n"
 
 		return ret + "\n"
 
@@ -26,41 +27,39 @@ class Book:
 	def filename(self):
 		return f"{self.title} - {self.author}.md"
 
-	def markdown(self):
+	@staticmethod
+	def parse(fname):
+		with open(fname) as f:
+			csvfile = csv.reader(f)
+			notes = []
+
+			i = 0
+			for line in csvfile:
+				if i not in (0, 3, 4, 5, 6, 7):
+					if i == 1:
+						title = line[0].title()
+					elif i == 2:
+						author = line[0][3:].split(",")[0]
+					else:
+						notes.append(Note(line[1], line[3], line[2]))
+				i += 1
+
+		return Book(title, author, notes)
+
+	def __str__(self):
 		ret = f"# {self.title} - {self.author}\n"
 		for n in self.notes:
 			ret += str(n)
 
 		return ret
 
-
-def parse(fname):
-	with open(fname) as f:
-		csvfile = csv.reader(f)
-		notes = []
-
-		i = 0
-		for line in csvfile:
-			if i not in (0, 3, 4, 5, 6, 7):
-				if i == 1:
-					title = line[0].title()
-				elif i == 2:
-					author = line[0][3:]
-				else:
-					# TODO: eventually add the user notes too.
-					notes.append(Note(line[1], line[3]))
-			i += 1
-
-		return Book(title, author, notes)
-
-
 if __name__ == "__main__":
 	if len(sys.argv) < 2:
 		exit("Please provide a CSV file.")
 
 	for a in sys.argv[1:]:
-		book = parse(a)
+		book = Book.parse(a)
 
 		with open(book.filename(), "w") as md:
-			md.write(book.markdown())
+			md.write(str(book))
 

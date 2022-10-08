@@ -1,4 +1,4 @@
-# Homo Deus: Breve Storia Del Futuro - Yuval Noah Harari, Marco Piani
+# Homo Deus: Breve Storia Del Futuro - Yuval Noah Harari
 ### Pagina 24
 Nel 2012 sono morte circa 56 milioni di persone nel mondo intero: 620.000 sono state vittime della violenza umana (le guerre hanno ucciso 120.000 persone, il crimine ne ha colpito un ulteriore mezzo milione); 800.000 persone si sono suicidate e 1,5 milioni di individui sono morti di diabete.23 Lo zucchero è adesso più pericoloso della polvere da sparo.
 

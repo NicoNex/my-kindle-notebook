@@ -1,4 +1,4 @@
-# La Fisica Del Diavolo: Maxwell, Schrödinger, Einstein E I Paradossi Del Mondo - Jim Al-Khalili, L. Servidei
+# La Fisica Del Diavolo: Maxwell, Schrödinger, Einstein E I Paradossi Del Mondo - Jim Al-Khalili
 ### Posizione 900
 La teoria della relatività generale descrive la gravità in modo radicalmente diverso e molto più accurato. Dice che la gravità non è una forza, in se stessa (come un elastico invisibile che attrae la materia) ma piuttosto una misura della forma stessa dello spazio attorno alle masse.
 

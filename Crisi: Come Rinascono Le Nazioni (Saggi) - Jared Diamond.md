@@ -1,4 +1,4 @@
-# Crisi: Come Rinascono Le Nazioni (Saggi) - Jared Diamond, Carla Palmieri, Anna Rusconi
+# Crisi: Come Rinascono Le Nazioni (Saggi) - Jared Diamond
 ### Posizione 270
 Il momento che chiamiamo «crisi» coincide spesso con un’improvvisa presa di coscienza, o un’improvvisa reazione, al cospetto di tensioni che si accumulavano da tempo.
 

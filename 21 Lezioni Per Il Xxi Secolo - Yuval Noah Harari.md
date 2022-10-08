@@ -1,4 +1,4 @@
-# 21 Lezioni Per Il Xxi Secolo - Yuval Noah Harari, Marco Piani
+# 21 Lezioni Per Il Xxi Secolo - Yuval Noah Harari
 ### Pagina 46
 Due capacità dell’IA particolarmente importanti e qualitativamente diverse da quelle del nostro cervello sono la connettività e la possibilità di aggiornamento.
 

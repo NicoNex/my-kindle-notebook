@@ -1,4 +1,4 @@
-# L’Uomo Che Scambiò Sua Moglie Per Un Cappello (Gli Adelphi Vol. 190) - Oliver Sacks, C. Morena
+# L’Uomo Che Scambiò Sua Moglie Per Un Cappello (Gli Adelphi Vol. 190) - Oliver Sacks
 ### Posizione 400
 Si deve incominciare a perdere la memoria, anche solo brandelli di ricordi, per capire che in essa consiste la nostra vita. Senza memoria la vita non è vita... La nostra memoria è la nostra coerenza, la nostra ragione, il nostro sentimento, persino il nostro agire. Senza di essa non siamo nulla...
 
